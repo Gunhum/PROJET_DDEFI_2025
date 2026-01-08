@@ -1,10 +1,47 @@
-# PROJET_DDEFI_2025
+# DDEFI Data Project 2025 — Commodity Price Analysis
 Projet de data groupe 9: étude du prix des matières premières
+
+Group data project focused on the analysis of commodity prices using Python and data science tools.
+
+The goal is to explore, clean, analyze and model financial data in order to extract meaningful insights.
+
+## 🛠 Tech Stack
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- Jupyter Notebook
+- CSV / API data sources
+
+## 📁 Repository content
+- `Projet_Data.ipynb` — Main notebook with analysis and models  
+- `data/` — Raw or processed datasets   
+- `README.md` — Project documentation  
+
+## ▶️ How to run
+
+```bash
+git clone https://github.com/Gunhum/PROJET_DDEFI_2025.git
+cd PROJET_DDEFI_2025
+jupyter notebook
+````
+Then open Projet_Data.ipynb and run the cells.
+
+## 📈 Workflow
+
+Data collection
+
+Data cleaning & preprocessing
+
+Exploratory analysis
+
+Modeling and/or visualization
+
+Interpretation of results
+
+## Project requirement
 
 Projet Final – Cursus DDEFI track -
 Centrale
 Contexte :
-Vous allez travailler en groupe de 4-5 sur un projet fil rouge qui vous accompagnera tout au
+Vous allez travailler en groupe de 3-4 sur un projet fil rouge qui vous accompagnera tout au
 long de votre cursus. En tant que consultants fictifs, vous devrez résoudre une problématique
 business en choisissant un dataset finance ( cf liste API financières), une API (Par ex: voir liste
 d'APIs publiques) ou encore un dataset public (Ex: datasets publics).
