@@ -11,8 +11,8 @@ The goal is to explore, clean, analyze and model financial data in order to extr
 - CSV / API data sources
 
 ## 📁 Repository content
-- `Projet_Data.ipynb` — Main notebook with analysis and models  
-- `data/` — Raw or processed datasets   
+- `projet-complet/Projet_Data.ipynb` — Main notebook with analysis and models  
+- `projet-complet/data/` — Raw or processed datasets   
 - `README.md` — Project documentation  
 
 ## ▶️ How to run
